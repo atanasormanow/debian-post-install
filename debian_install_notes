@@ -1,7 +1,6 @@
 STUFF WITH PREP OR FROM OUTSIDE SOURCES:
 ----------------------------------------
 vim-plug (repo, but has autoinstall in .vimrc)
-spotify-client (deps: gnupg|gnupg1|gnupg2)
 discord
 stterm (manully compiled, should make repo or smth)
     libx11-dev: Xlib header fils
