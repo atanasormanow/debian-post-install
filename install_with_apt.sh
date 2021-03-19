@@ -2,4 +2,4 @@
 
 # $1 - text file with apt package names
 
-cat $1 | apt install
+cat $1 | sudo apt-get install
