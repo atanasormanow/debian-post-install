@@ -1,0 +1,52 @@
+NORMAL PACKAGES:
+----------------
+(first install and setup sudo manually)
+xorg
+xbacklight
+xclip
+i3wm
+i3blocks
+i3lock-fancy
+zsh
+vim
+vim-gtk
+network-manager
+intel-microcode
+firmware-iwlwifi
+dunst
+firefox-esr
+curl
+fonts-font-awsome
+feh
+compton
+ranger
+xzgv
+peek
+kbdd
+htop
+transmission
+mpv
+zathura
+scrot
+pulseaudio
+pulseaudio-module-bluetooth
+pavucontrol
+blueman
+telegram-desktop
+httpie
+nodejs
+redshift
+fzf
+fonts-powerline
+
+STUFF WITH PREP OR FROM OUTSIDE SOURCES:
+----------------------------------------
+vim-plug (repo)
+spotify-client (deps: gnupg|gnupg1|gnupg2)
+discord
+stterm (manully compiled, should make repo or smth)
+    libx11-dev: Xlib header fils
+    libxft-dev: freetype-based font drawing
+    libxext-dev: X11 miscellaneous extensions
+i3blocks-contrib (repo)
+code (prob needs additional source)
