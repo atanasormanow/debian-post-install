@@ -1,10 +1,9 @@
 STUFF WITH PREP OR FROM OUTSIDE SOURCES:
 ----------------------------------------
 vim-plug (repo, but has autoinstall in .vimrc)
-discord
+discord (.deb, maybe get with curl)
 stterm (manully compiled, should make repo or smth)
     libx11-dev: Xlib header fils
     libxft-dev: freetype-based font drawing
     libxext-dev: X11 miscellaneous extensions
 i3blocks-contrib (repo)
-code (prob needs additional source)
